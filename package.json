@@ -1,0 +1,13 @@
+{
+  "name": "send-mail-from-api",
+  "version": "0.0.0",
+  "description": "SendMailFromAPI",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^7.1.0"
+  }
+}
